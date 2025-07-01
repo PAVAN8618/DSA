@@ -7,6 +7,8 @@
     amount = amount%500
     console.log('500 notes are :' +note)
     
+
+   //  fjd
  }
  if(amount>=200 && amount<500){
     note = Math.floor(amount/200)
